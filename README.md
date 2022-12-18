@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
+Entendendo o rebase
 
 ## Seção teste para ver como funciona..
 
