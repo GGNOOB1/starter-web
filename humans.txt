@@ -18,3 +18,5 @@ e aslam tambem
 
     HTML5, CSS3
     jQuery, Modernizr, mta coisa
+
+Primeira modificação no recurso
