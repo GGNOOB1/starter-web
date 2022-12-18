@@ -3,3 +3,5 @@
 User-agent: *
 
 2° parte do rebase
+
+3° parte do rebase
