@@ -1,3 +1,5 @@
 # robotstxt.org/
 
 User-agent: *
+
+2° parte do rebase
