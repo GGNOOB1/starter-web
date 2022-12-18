@@ -5,3 +5,7 @@ User-agent: *
 2° parte do rebase
 
 3° parte do rebase
+
+----------------------------------
+
+Trazendo alterações do repositório remoto part 1
