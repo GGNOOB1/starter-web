@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gege está aki
 
 # THANKS
 
+<<<<<<< HEAD
     Arthur
+=======
+    Obrigado
+>>>>>>> simples-changes
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, mta coisa
